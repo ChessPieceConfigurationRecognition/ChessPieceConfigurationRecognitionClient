@@ -1,0 +1,3 @@
+# ChessPieceConfigurationRecognitionClient
+
+Client-side for ChessPieceConfigurationRecognition.
